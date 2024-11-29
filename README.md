@@ -1,4 +1,4 @@
-# Role-Based Web Application
+# Role-Based Access Control (Web Application)
 
 A web application with role-based access control for **users**, **moderators**, and **admins**. Each role has specific actions they can perform, along with a frontend for performing their various respective operations.
 
