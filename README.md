@@ -89,7 +89,7 @@ A web application with role-based access control for **users**, **moderators**, 
 # Tech Stack
 
 ### Frontend
-- Framework/Library: **React.js**
+- Framework: **React.js**
 - Styling: **Tailwind CSS**, **DaisyUI**
 
 ### Backend
